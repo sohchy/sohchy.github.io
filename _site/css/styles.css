@@ -1,0 +1,142 @@
+body{
+  background-color: #f6f7f1;
+  font-family: 'Lato', sans-serif;
+  color: #2F4F4F;
+}
+
+.video{
+  margin-top: 20px;
+}
+
+#breadcrumbs{
+  padding-top: 20px;
+}
+
+#files_to_download{
+  margin-top: 30px;
+}
+
+.bg-overlay{
+  background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.2)), url("../images/lion.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 500px;
+}
+
+.bg-overlay-griffin{
+  background: linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.2)), url("../images/griffin-wide.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 500px;
+}
+
+.footer{
+  height: 70px;
+}
+
+.top-menu-bar{
+  height: 60px;
+  background-color: #346a6d; /* dc9779 */;
+  text-align: right;
+}
+
+.top-menu-bar h6{
+  /* margin-top: 15px; */
+  padding: 20px;
+  color: #FFF; /* 333;*/
+}
+
+.top-menu-bar li{
+  display: inline;
+  float: right;
+}
+
+h1, h2, h3, h4, h5, h6, .p1, .p3{
+  /*color: #349fa4;*/
+}
+
+.header-link{
+  color: #97fafe; /* 2F4F4F */;
+}
+
+.header-link:hover, .header-link::selection{
+  color: #97fafe; /* 349fa4 */;
+}
+
+.unit-links{
+  color: #2F4F4F;
+}
+
+.unit-links:hover, .unit-links::selection{
+  color: #2F4F4F;
+}
+
+
+h1{
+  font-size: 64px;
+  font-weight: 900;
+}
+
+h4{
+  font-size: 32px;
+  font-weight: 700;
+}
+
+h6{
+  font-size: 16px;
+}
+
+.p1{
+  font-size: 24px;
+  color: #94bcbc;
+  font-family: 'Playfair Display', serif;
+}
+
+.p1-header{
+  color: #97fafe;
+  font-size: 24px;
+  font-family: 'Playfair Display', serif;
+}
+
+.p3{
+  font-size: 12px;
+}
+
+.unit-image{
+  width: 100%;
+}
+
+.padding-top-25{
+  padding-top: 25px;
+}
+
+.padding-bottom-25{
+  padding-bottom: 25px;
+}
+
+.padding-top-40{
+  padding-top: 40px;
+}
+
+.border-custom{
+  border-color: #94bcbc !important;
+  border-width: 1px !important;
+}
+
+.background-white{
+  background-color: white;
+}
+
+.margin-up-15{
+  margin-top: -15px;
+}
+
+.margin-top-40{
+  margin-top: 40px;
+}
+
+.padding-15{
+  padding:15px;
+}
